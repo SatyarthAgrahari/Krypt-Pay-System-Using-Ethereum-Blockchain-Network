@@ -1,2 +1,5 @@
 # Krypt-Pay-System-Using-Ethereum-Blockchain-Network
-Developed 'Krypt Pay Syatem', an Ethereum-based payment system allowing seamless peer-to-peer transactions with a unique feature of visualizing each transaction as a GIF. Utilized React, Solidity, and integrated with MetaMask and GIPHY API, tested on Sepolia TestNet.
+rypt Pay,' is an Ethereum-based payment system that redefines peer-topeer transactions with a unique feature where, it visualizes each transaction 
+as a GIF. Developed using React and Solidity, it seamlessly integrates with 
+MetaMask and the GIPHY API. Rigorous testing on the Sepolia TestNet 
+ensures a secure user experience. 
